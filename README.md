@@ -498,7 +498,7 @@ h2,h3,h4{
 
 
 
-```
+
 
 ## OUTPUT:
 ![alt text](<static/Screenshot 2025-10-08 201050.png>)
