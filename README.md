@@ -496,15 +496,14 @@ h2,h3,h4{
 ```
 
 
-
+![alt text](project7/app7/static/outputimage1.png) 
+![alt text](project7/app7/static/outputimage2.png) 
+![alt text](project7/app7/static/outputimage3.png) 
+![alt text](project7/app7/static/outputimage4.png)
 
 
 
 ## OUTPUT:
-![alt text](<static/Screenshot 2025-10-08 201050.png>)
-![alt text](<static/Screenshot 2025-10-08 201103.png>)
-![alt text](<static/Screenshot 2025-10-08 201256.png>)
-![alt text](<static/Screenshot 2025-10-08 201313.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
